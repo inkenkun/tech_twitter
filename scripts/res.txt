@@ -1,0 +1,3 @@
+posi: @base, エプロン
+nega: タバコ
+top: 40

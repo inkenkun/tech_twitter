@@ -1,0 +1,8 @@
+# User Preferences
+__*
+
+# Temporary or system files
+*.swp
+._*
+.DS_Store
+.sass-cache
